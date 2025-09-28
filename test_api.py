@@ -7,7 +7,8 @@ BASE_URL = "https://api.alteg.io/v1/employees"
 
 def main():
     headers = {
-        "X-User-Token": 4d8b1b277cad78fd47f057fcf1de2686,
+        USER_TOKEN = "4d8b1b277cad78fd47f057fcf1de2686"
+
         "Accept": "application/json"
     }
     try:
