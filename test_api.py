@@ -2,7 +2,7 @@ import httpx
 
 USER_TOKEN = "4d8b1b277cad78fd47f057fcf1de2686"
 
-url = "https://api.alteg.io/api/v1/companies"
+url = "https://api.alteg.io/api/v1"
 
 
 headers = {
